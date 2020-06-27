@@ -353,6 +353,8 @@ a {
   text-transform: uppercase;
   border-radius: 5px;
   background-color: #51ddfc; }
+.btn-default:hover {
+  background-color: #83e7fd; }
 .btn-error {
   margin-top: 15px;
   width: 100%;
@@ -362,6 +364,8 @@ a {
   text-transform: uppercase;
   border-radius: 5px;
   background-color: #e4757a; }
+.btn-error:hover {
+  background-color: #eca0a3; }
 .btn-info {
   margin-top: 15px;
   width: 100%;
@@ -371,6 +375,8 @@ a {
   text-transform: uppercase;
   border-radius: 5px;
   background-color: #927bc1; }
+.btn-info:hover {
+  background-color: #af9ed1; }
 .btn-success {
   margin-top: 15px;
   width: 100%;
@@ -380,6 +386,8 @@ a {
   text-transform: uppercase;
   border-radius: 5px;
   background-color: #63cc82; }
+.btn-success:hover {
+  background-color: #89d9a1; }
 .btn-warning {
   margin-top: 15px;
   width: 100%;
@@ -389,6 +397,8 @@ a {
   text-transform: uppercase;
   border-radius: 5px;
   background-color: #fd7856; }
+.btn-warning:hover {
+  background-color: #fea088; }
 
 /* ============================================= */
 /*              Forms                            */

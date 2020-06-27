@@ -7,21 +7,36 @@
       @include btn;
       background-color: $color-default;
     }
+    &-default:hover {
+      background-color: lighten($color-default, 10%);
+    }
     &-error {
       @include btn;
       background-color: $color-error;
+    }
+    &-error:hover {
+      background-color: lighten($color-error, 10%);
     }
     &-info {
       @include btn;
       background-color: $color-info;
     }
+    &-info:hover {
+      background-color: lighten($color-info, 10%);
+    }
     &-success {
       @include btn;
       background-color: $color-success;
     }
+    &-success:hover {
+      background-color: lighten($color-success, 10%);
+    }
     &-warning {
       @include btn;
       background-color: $color-warning;
+    }
+    &-warning:hover {
+      background-color: lighten($color-warning, 10%);
     }
   }
   

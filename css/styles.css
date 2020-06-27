@@ -547,7 +547,7 @@ a {
     flex-basis: 16.67%; }
 
   .col-3 {
-    flex-basis: 25.00%; }
+    flex-basis: 25%; }
 
   .col-4 {
     flex-basis: 33.33%; }
@@ -556,7 +556,7 @@ a {
     flex-basis: 41.67%; }
 
   .col-6 {
-    flex-basis: 50.00%; }
+    flex-basis: 50%; }
 
   .col-7 {
     flex-basis: 58.33%; }
